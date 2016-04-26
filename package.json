@@ -1,0 +1,27 @@
+{
+  "name": "json2excel",
+  "version": "1.1.0",
+  "description": "a plugin base on node-xlsx to pipe json to excel .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowdaw/json2excel.git"
+  },
+  "keywords": [
+    "json",
+    "excel",
+    "xlsx"
+  ],
+  "author": "shadowdaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowdaw/json2excel/issues"
+  },
+  "homepage": "https://github.com/shadowdaw/json2excel#readme",
+  "dependencies": {
+    "node-xlsx": "^0.6.0"
+  }
+}
