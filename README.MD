@@ -9,7 +9,7 @@ npm install json2excel
 ```
 
 Example
-```javascript
+```node
 var jexcel=require('json2excel');
 
 var data = {
